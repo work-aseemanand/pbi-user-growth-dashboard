@@ -15,4 +15,4 @@ Excel (data cleaning)
 SQL (identifying treands)
 Power BI
 ## Dashboard Preview
-![Dashboard](User-Growth-Dashboard.png)
+![Dashboard]()
